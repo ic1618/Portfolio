@@ -477,7 +477,7 @@ section .title::after{
     width: 70%;
 }
 .skills-content .right .python::before{
-    width: 70%;
+    width: 60%;
 }
 .skills-content .right .algorithms::before{
     width: 70%;
