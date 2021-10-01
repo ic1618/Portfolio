@@ -482,6 +482,9 @@ section .title::after{
 .skills-content .right .algorithms::before{
     width: 70%;
 }
+.skills-content .right .communication::before{
+    width: 90%;
+}
 
 /* experience */
 .experience .title::after{
